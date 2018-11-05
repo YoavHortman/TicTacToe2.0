@@ -1,0 +1,4 @@
+{
+  "players": ["x", "y", "z"],
+  "boardSize": 3
+}
